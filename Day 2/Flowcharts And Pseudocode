@@ -7,11 +7,12 @@ Before writing Java code, it's important to understand problem-solving technique
 A flowchart is a graphical representation of an algorithm using symbols to show the flow of execution.
 
 🔹 Basic Flowchart Symbols
-Symbol	Meaning
-🔷 Oval	Start / End
-🔲 Rectangle	Process / Action
-🔺 Diamond	Decision (Yes/No, True/False)
-🔽 Arrow	Flow Direction
+
+Symbol	        Meaning
+🔷 Oval	         Start / End
+🔲 Rectangle	 Process / Action
+🔺 Diamond	      Decision (Yes/No, True/False)
+🔽 Arrow	      Flow Direction
 
 
 📊 Example: Flowchart for Finding the Largest of Two Numbers
