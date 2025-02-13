@@ -18,29 +18,24 @@ Symbol	        Meaning
 📊 Example: Flowchart for Finding the Largest of Two Numbers
 Problem: Given two numbers, find the larger one.
 
-plaintext
-Copy
-Edit
-    Start
-      |
-  Input A, B
-      |
-  A > B ?
-  /     \
-Yes      No
- |        |
-Print A   Print B
- |        |
- End      End
+                                   Start
+                                     |
+                                Input A, B
+                                     |
+                                  A > B ?
+                                  /     \
+                                Yes      No
+                                |        |
+                            Print A   Print B
+                              |         |
+                             End       End
 
 
 2️⃣ What is Pseudocode?
 Pseudocode is a simplified way of writing an algorithm in plain English using programming-like structure.
 
 🔹 Example: Pseudocode for Finding the Largest of Two Numbers
-css
-Copy
-Edit
+
 BEGIN
     INPUT A, B
     IF A > B THEN
