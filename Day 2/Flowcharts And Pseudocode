@@ -1,0 +1,58 @@
+Day 2: Flowcharts and Pseudocode
+
+📌 Introduction
+Before writing Java code, it's important to understand problem-solving techniques using flowcharts and pseudocode. These tools help visualize logic before implementation.
+
+1️⃣ What is a Flowchart?
+A flowchart is a graphical representation of an algorithm using symbols to show the flow of execution.
+
+🔹 Basic Flowchart Symbols
+Symbol	Meaning
+🔷 Oval	Start / End
+🔲 Rectangle	Process / Action
+🔺 Diamond	Decision (Yes/No, True/False)
+🔽 Arrow	Flow Direction
+
+
+📊 Example: Flowchart for Finding the Largest of Two Numbers
+Problem: Given two numbers, find the larger one.
+
+plaintext
+Copy
+Edit
+    Start
+      |
+  Input A, B
+      |
+  A > B ?
+  /     \
+Yes      No
+ |        |
+Print A   Print B
+ |        |
+ End      End
+
+
+2️⃣ What is Pseudocode?
+Pseudocode is a simplified way of writing an algorithm in plain English using programming-like structure.
+
+🔹 Example: Pseudocode for Finding the Largest of Two Numbers
+css
+Copy
+Edit
+BEGIN
+    INPUT A, B
+    IF A > B THEN
+        PRINT "A is larger"
+    ELSE
+        PRINT "B is larger"
+    ENDIF
+END
+
+
+📝 Practice Problems
+Try writing flowcharts and pseudocode for the following:
+
+Find whether a number is even or odd.
+Calculate the sum of the first N natural numbers.
+Find the largest among three numbers.
